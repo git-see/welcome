@@ -1,4 +1,4 @@
-$${\color{green} WELCOME !}$$
+#  [![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
 
 ## This project is intended for recruiters to assess my level of skills
 
