@@ -1,4 +1,4 @@
-> [!WELCOME !]
+$${\color{green} WELCOME !}$$
 
 ## This project is intended for recruiters to assess my level of skills
 
