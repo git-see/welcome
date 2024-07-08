@@ -1,4 +1,4 @@
-#  $${\color{yellow} WELCOME \!}$$
+#  $${\color{yellow} WELCOME \space !}$$
 
 ## This project is intended for recruiters to assess my level of skills
 
